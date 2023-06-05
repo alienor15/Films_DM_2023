@@ -9,7 +9,7 @@ However, we know this task will not be easy, and our conclusions are somewhat un
 
 # Recommendation 
 
-We highly recommend the reader to start with the report of the project (Data_management_report) which will give good overview, explanations on the steps performed and analysis of the results. It is an excellent starting point before going in the different notebooks. 
+We highly recommend the reader to start with the report of the project (Data_management_report) which will give a good overview, explanations on the steps performed and an analysis of the results. It is an excellent starting point before going in the different notebooks. 
 
 
 # Main Notebooks
