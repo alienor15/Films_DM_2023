@@ -18,11 +18,14 @@ Data visualization: exploratory data analysis (correlation, histograms, barchart
 
 For the Machine learning part, there are two notebooks;
 
-ML regression: with different types of logistic regressions
+Data ML regression: with different types of logistic regressions
 
-Decision tree Helo
+Data ML Decision tree: with our decision tree analysis
 
-MODEL
+Data_management_report: the final report
+
+Data management presentation: the presentation
+
 
 # Datasets
 
