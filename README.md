@@ -6,6 +6,12 @@ We started a study to examine the success of movies using methods learned in cla
 
 However, we know this task will not be easy, and our conclusions are somewhat uncertain. The available database was very incomplete, so we couldn't use all the variables we wanted to include, such as budget, which we felt had an impact on the film's success.
 
+
+# Recommendation 
+
+We highly recommend the reader to start with the report of the project (Data_management_report) which will give good overview, explanations on the steps performed and analysis of the results. It is an excellent starting point before going in the different notebooks. 
+
+
 # Main Notebooks
 
 We constructed different notebooks, each of them having an explicit name:
